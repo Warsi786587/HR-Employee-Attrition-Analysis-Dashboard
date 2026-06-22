@@ -48,7 +48,7 @@ Through data visualization, KPI tracking, and interactive filtering, the dashboa
 
 **Dashboard Screenshot**
 
-! [Dashboard](HR Attrition dashboard...png)
+! [Dashboard](dashboard.png)
 
 **Dataset Preview**
 
