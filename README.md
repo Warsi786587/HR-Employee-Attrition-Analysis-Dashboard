@@ -48,7 +48,7 @@ Through data visualization, KPI tracking, and interactive filtering, the dashboa
 
 **Dashboard Screenshot**
 
-![Dashboard](https://github.com/Warsi786587/HR-Employee-Attrition-Analysis-Dashboard/commit/c8356ffae06beccbf325639d53ccb14c271b889d#diff-22742d960ffb31da9bf75400c5c1e1b1856a31c5b8c5e6b65341755554731d5d)
+![Dashboard](HR Attrition dashboard...png)
 
 **Dataset Preview**
 
