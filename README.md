@@ -48,7 +48,7 @@ Through data visualization, KPI tracking, and interactive filtering, the dashboa
 
 **Dashboard Screenshot**
 
-(Add Dashboard Screenshot Here)
+![Dashboard](HR Attrition power bi dashboard)
 
 **Dataset Preview**
 
