@@ -46,7 +46,7 @@ Through data visualization, KPI tracking, and interactive filtering, the dashboa
 - Dataset (.xlsx)
 - Dashboard Screenshot (.png)
 
-**Dashboard Screenshot**
+**Dashboard Preview**
 
 ![Dashboard](dashboard.png)
 
